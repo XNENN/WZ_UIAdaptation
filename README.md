@@ -24,7 +24,7 @@ Make sure that your deployed apps have **flexEnabled** set to **true**
 
 ### 2. Step/ create a role collection
 
-The 2nd step is to create a new role collection and assign the roles Administrator and BusinessProcessExpert to it. <br>
+The 2nd step is to create a new role collection and assign the roles **AdminFlexKeyUser** and **FlexKeyUser** to it. <br>
 Don't forget to assign your user to this role collection as well.
 
 ![Bildschirmfoto 2024-09-04 um 14 37 16](https://github.com/user-attachments/assets/b57e1804-11fd-4ff9-9899-790281124193)
