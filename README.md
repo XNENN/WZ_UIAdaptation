@@ -35,7 +35,7 @@ the next step is to set the **UI Adaptation by Key User** to true. You can find 
 
 ![Bildschirmfoto 2024-09-04 um 14 42 18](https://github.com/user-attachments/assets/fa42adb0-36a8-48ac-a638-c02b91d4a68c)
 
-*** final Step/ adapt the UI
+### final Step/ adapt the UI
 
 finaly you can open your WZ website and navigate to the app you want to adapt. Click on the user icon in the top right and select **Adapt UI**. <br> 
 Your website will open in the edit mode and you can make your changes. Have fun! 
